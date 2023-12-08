@@ -122,4 +122,4 @@ $.ajax("GET", "/api/data", true, function(response) {
 
 ## Contributors
 
-- [Edgar Gulay](https://eddiegulay.me)
+- [eddiegulay](https://eddiegulay.me)
